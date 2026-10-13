@@ -2,7 +2,7 @@
 
 **SIPEKA** (*Sistem Pelaporan dan Kinerja Anggaran*) is a comprehensive budget reporting and performance monitoring system developed for the **Department of Social Services and Community Empowerment (Dinsos PM) of North Kalimantan Province**.
 
----
+# *The main source code of this project is stored in a private repository for security and copyright reasons.*
 
 ## 📝 About the Project
 
